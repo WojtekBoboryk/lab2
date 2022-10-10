@@ -1,2 +1,2 @@
 "# lab2" 
-Koniguracja Gita
+Koniguracja Gita 11.10.22r
